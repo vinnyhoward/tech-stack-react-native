@@ -2,7 +2,7 @@
 
 // Import a library to help create a Component
 import React from 'react';
-import { Text, View } from 'react-native';
+import { Text, View, StatusBar } from 'react-native';
 import { Provider } from 'react-redux';
 import { createStore } from 'redux';
 import reducer from './src/reducers';
@@ -15,6 +15,10 @@ import LibraryList from './src/components/LibraryList'
 const App = () => (
   <Provider store={createStore(reducer)}>
   <View style={{ flex: 1 }}>
+  <StatusBar
+        backgroundColor="blue"
+        barStyle="light-content"
+      />
     <Header headerText='Tech Stack' />
     <LibraryList />
   </View>
