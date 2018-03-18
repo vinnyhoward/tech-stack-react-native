@@ -1,5 +1,14 @@
-# tech-stack-react-native
-Udemy Course
+# Tech Stack
 
-  ![Getting Started](./techStackScreen2.png)
-  ![Getting Started](./techStackScreen1.png)
+## About this project
+
+A simple react native project showcasing a small handful of animation libraries that are available out of the box
+
+# What tech is used?
+
+- React Native
+- Native animation library  
+
+# Showcase
+<img src='./tech.gif' />
+
