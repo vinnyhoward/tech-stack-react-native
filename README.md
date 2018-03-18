@@ -11,6 +11,12 @@ A simple react native project showcasing a small handful of animation libraries 
 
 
 # Demo 
+
+- Download the `Expo` app
+- Create an account 
+- Scan QR code to test out application
+
+
 <img src='./qr.png' />
 
 # Preview
