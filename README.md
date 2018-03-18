@@ -9,6 +9,10 @@ A simple react native project showcasing a small handful of animation libraries 
 - React Native
 - Native animation library  
 
-# Showcase
+
+# Demo 
+<img src='./qr.png' />
+
+# Preview
 <img src='./tech.gif' />
 
